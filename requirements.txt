@@ -1,0 +1,15 @@
+beautifulsoup4
+datasets
+ftfy
+matplotlib
+nltk
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+spacy
+torch
+tqdm
+transformers
+wordcloud

@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+ 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+env/
+.mypy_cache/
+ 
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+ 
+# Editors
+.vscode/
+.idea/
+ 
+# Data: licensed and not redistributable; keep only the folder
+data/*
+!data/.gitkeep
+ 
+# Large artefacts (downloaded or generated)
+models/
+experiments/
+*.pt
+*.safetensors
+*.bin
+ 
